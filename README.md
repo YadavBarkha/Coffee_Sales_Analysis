@@ -13,8 +13,8 @@ The goal is to support strategic discussions and improve decision-making for bet
 ---
 
 ## 🧰 Tool Used
-<p align="center">
-  "C:\Users\barkh\Downloads\microsoft-excel.png"
+<img width="618" height="348" alt="microsoft-excel" src="https://github.com/user-attachments/assets/6f30f2c8-e893-4479-8118-92ac7f72c5e9" />
+
 
 Built entirely in **Microsoft Excel** using:
 - PivotTables & PivotCharts  
