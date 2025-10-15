@@ -14,8 +14,7 @@ The goal is to support strategic discussions and improve decision-making for bet
 
 ## 🧰 Tool Used
 <p align="center">
-  <img src="./microsoft-excel.png" width="300" height="150" alt="Microsoft Excel Logo"/>
-</p>
+  "C:\Users\barkh\Downloads\microsoft-excel.png"
 
 Built entirely in **Microsoft Excel** using:
 - PivotTables & PivotCharts  
