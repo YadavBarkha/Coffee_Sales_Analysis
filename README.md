@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Dashboard
 
-![Coffee Background Banner]![coffee_beans](https://github.com/user-attachments/assets/15ba1157-d22e-4094-b458-b69d2b97e2d1)
+[coffee_beans](https://github.com/user-attachments/assets/15ba1157-d22e-4094-b458-b69d2b97e2d1)
 
 
 ---
