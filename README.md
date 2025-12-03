@@ -41,7 +41,7 @@ Built entirely in **Microsoft Excel** using:
 - 🗓️ This insight can be used for **future resource planning** (staffing, inventory, and marketing).  
 - ⚙️ Emphasis on **efficient resource management** during peak months.
 
-![Dashboard Snapshot](https://github.com/user-attachments/assets/16df1cba-d0fe-4dba-a1a9-e1e330c58dbf)
+![Dashboard Snapshot] (https://"C:\Users\barkh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 164557.png")
 
 ---
 
