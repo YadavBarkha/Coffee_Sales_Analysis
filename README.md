@@ -43,9 +43,6 @@ Built entirely in **Microsoft Excel** using:
 
 - 
 
-![Dashboard](https://github.com/YadavBarkha/Coffee_Sales_Analysis/blob/main/Screenshot%202025-12-03%20164557.png)
-
----
 
 ## 🧠 Data Story
 
@@ -58,10 +55,7 @@ From the analysis, we found:
 ---
 
 ## 📊 Dashboard Preview
-<p align="center">
-  <img src="./Dashboard.png" width="1000" height="500" alt="Coffee Sales Dashboard Preview"/>
-</p>
-
+(https://github.com/YadavBarkha/Coffee_Sales_Analysis/blob/main/Dashboard.png)
 ---
 
 ## 🧾 Summary
