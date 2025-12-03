@@ -54,8 +54,9 @@ From the analysis, we found:
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard] (https://github.com/YadavBarkha/Coffee_Sales_Analysis/blob/main/Dashboard.png)
+## 📊 Dashboard Preview 
+!Dashboard![Dashboard](https://github.com/YadavBarkha/Coffee_Sales_Analysis/blob/main/Dashboard.png)
+
 ---
 
 ## 🧾 Summary
