@@ -41,7 +41,7 @@ Built entirely in **Microsoft Excel** using:
 - 🗓️ This insight can be used for **future resource planning** (staffing, inventory, and marketing).  
 - ⚙️ Emphasis on **efficient resource management** during peak months.
 
-![Dashboard Snapshot] (https://"C:\Users\barkh\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 164557.png")
+![Dashboard Snapshot](https://github.com/YadavBarkha/Coffee_Sales_Analysis/blob/main/Screenshot%202025-12-03%20164557.png)
 
 ---
 
